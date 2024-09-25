@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia Noorani</h1>
-<h4 align="center">B.Sc. in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic)</h3>
+<h4 align="center">B.Sc. in Computer Engineering from Amirkabir University of Technology - Tehran Polytechnic</h3>
 
 <br>
 <p align="center">
