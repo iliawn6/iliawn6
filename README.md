@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia Noorani</h1>
-<h4 align="center">B.Sc. in Computer Engineering from Amirkabir University of Technology - Tehran Polytechnic</h3>
+<h4 align="center">B.Sc in Computer Engineering at Amirkabir University of Technology - Tehran Polytechnic</h3>
 
 <br>
 <p align="center">
@@ -10,9 +10,9 @@
 
 # About Me
 
-🎓 **Education:** B.Sc. in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic). I'm deeply passionate about all aspects of computer science, especially in AI fields like machine learning and data mining, as well as in software engineering.
+🎓 **Education:** B.Sc in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic). I'm deeply passionate about all aspects of computer science, especially in AI fields like machine learning and data mining, as well as in software engineering.
 
-👨‍🏫 **Teaching Experience:** Experienced as a teaching assistant in machine learning and software engineering courses, actively contributing to academic growth and practical applications.
+👨‍🏫 **Teaching Assistant Experience:** Experienced as a teaching assistant in several courses like machine learning and software engineering, actively contributing to academic growth and practical applications.
 
 💡 **Skills:** Known for my creativity and strong problem-solving skills, I thrive on turning complex challenges into innovative solutions.
 
