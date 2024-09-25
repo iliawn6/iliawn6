@@ -7,7 +7,6 @@
 </p>
 
 <br>
-<br>
 
 # About Me
 
@@ -21,7 +20,6 @@
 
  In summary, my journey in tech is driven by a relentless pursuit of knowledge in AI and software engineering. I am always ready to tackle challenging projects that leverage technology to solve real-world problems and achieve impactful results.
 
-<br>
 <br>
 
 
