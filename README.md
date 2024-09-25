@@ -30,7 +30,6 @@
 - **Machine Learning**
 - **Data Analysis**
 - **Software Engineering**
-- 
 <br>
 <br>
 
